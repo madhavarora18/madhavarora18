@@ -47,3 +47,9 @@ The project has test cases under `test_project.py` script. The tests ensure that
 -To have the application seamlessly handle invalid currency codes.
 **Conclusion:**
 This project was a great learning exercise by integrating with third-party APIs, with Flask, and developing a basic yet really useful web application for international students. It taught me more about web development and understanding how to design dynamic and interactive websites that are capable of responding to user inputs in real-time. In addition to this, the live Currency Converter which we made is an useful tool for any individual who needs to convert currencies as quick as possible, and I am really proud with the result of the project.
+
+References
+
+ChatGPT - Currency Converter Code. (2025). ChatGPT. https://chatgpt.com/share/67c64f19-eea8-8005-92c7-b836c7fdb3ad
+
+ExchangeRate-API - Free & Pro Currency Converter API. (n.d.). Www.exchangerate-Api.com. https://www.exchangerate-api.com
