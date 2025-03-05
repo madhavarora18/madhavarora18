@@ -1,4 +1,11 @@
- on **Python** and the **Flask** web application framework, and it uses the **ExchangeRate-API** forfetching real-time exchange rates of currencies. Apart from that, the application offers functionality where the user provides a certain amount in a currency, selects the from and to currencies, and then the converter fetches the converted amount in the selected currency. Also, please note that the project was designed keeping ease and simplicity in mind for beginners and professionals.
+# Live Currency Converter
+
+#### Video Demo:  https://youtu.be/eY7Fzw-BB7w
+
+#### Description:
+The **Live Currency Converter** is a web-based program that runs out real-time currency conversion according to updated exchange rates. Moreover, the main goal of the project to provide users with a simple interface in order to automatically convert currencies with their current exchange values in the global market, more than 160 currencies can be converted using this converter.
+
+The project is built based on **Python** and the **Flask** web application framework, and it uses the **ExchangeRate-API** forfetching real-time exchange rates of currencies. Apart from that, the application offers functionality where the user provides a certain amount in a currency, selects the from and to currencies, and then the converter fetches the converted amount in the selected currency. Also, please note that the project was designed keeping ease and simplicity in mind for beginners and professionals.
 
 
 **Key Features:**
@@ -43,5 +50,8 @@ This project was a great learning exercise by integrating with third-party APIs,
 References
 
 ChatGPT - Currency Converter Code. (2025). ChatGPT. https://chatgpt.com/share/67c64f19-eea8-8005-92c7-b836c7fdb3ad
+(ChatGPT - Currency Converter Code, 2025)
 
 ExchangeRate-API - Free & Pro Currency Converter API. (n.d.). Www.exchangerate-Api.com. https://www.exchangerate-api.com
+(ExchangeRate-API - Free & pro Currency Converter API, n.d.)
+
